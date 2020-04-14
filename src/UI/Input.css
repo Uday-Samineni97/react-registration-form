@@ -1,0 +1,42 @@
+.InputElement {
+    width: 100%;
+    outline: none;
+    padding: 8px;    
+   
+   border:none;
+   background: transparent;
+  border-bottom: 1px solid gray;
+
+  
+}
+.heading{
+    margin-bottom: 20px;
+}
+::placeholder{
+    color:black;
+}
+.Invalid {
+    border: 1px solid red;
+    background-color: #FDA49A;
+}
+.ValidationError {
+    color: red;
+    /* height:20px; */
+    background-color: blue;
+    font-size: 10px;
+    /* margin: 5px 0; */
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+} 
+
+button.Button {
+    background-color: red;
+    border-radius:15px;
+    width:100%;
+    color: white;
+    outline: none !important;
+    height: 38px;
+    border: none;
+    box-shadow: none !important;
+    
+}

@@ -1,0 +1,66 @@
+.Form {
+   background-color: white;
+    padding: 8%;
+    width: 27rem;
+    border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  }
+  .error_msg {
+    color: red;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0.5rem;
+    height: 24px;
+  }
+  
+  .img_class {
+    /* background-image: url(".././backgound.jpg"); */
+    background-position: bottom;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+  }
+  
+  .main_div {
+    background:linear-gradient(to bottom, #ff5050 0%, #ff99cc 100%);
+    display: flex;
+    padding: 8rem;
+  }
+  .container_class {
+    margin: auto;
+  }
+  .social_logins{
+      margin-top:20px;    
+      display:flex;   
+      align-content: center;
+      justify-content: space-between; 
+  }
+  .social_bt{
+      margin-right:10px;
+
+  }
+  .facebook-button-class{
+        color: white;
+        background: #4267B2;
+        border-radius: 25px;
+        border:none;
+        outline:none;
+  }
+  .google-button-class{
+    color: white;
+    background: #B23121;
+    border-radius: 25px;
+    border:none;
+    outline:none;
+}
+.twitter_bt{
+    background: #B23121;
+    height:30px;
+    border-radius: 25px;
+    border:none;
+    outline:none;
+    padding:0px;
+    margin: 0%;
+    
+}
+  
